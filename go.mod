@@ -1,3 +1,3 @@
-module github.com/indranandjha/nummanip
+module github.com/indranandjha1993/nummanip
 
 go 1.17
